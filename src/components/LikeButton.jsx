@@ -1,4 +1,3 @@
-import "./LikeButton.css";
 import { useState} from 'react';
 
 function LikeButton () {
